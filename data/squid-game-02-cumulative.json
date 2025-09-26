@@ -70,7 +70,7 @@
             "total_percentage_bytes": "47.62"
         }
     ],
-    "geo_slices_4_cahill_keyes_quadrant_peers": [
+    "geo_slices_4_cahill_keyes_quadrant_downloaders": [
         {
             "number": 1,
             "name": "Pacifica America",
@@ -96,7 +96,7 @@
             "slice_percentage_udownloaders": "24.09"
         }
     ],
-    "geo_slices_continental_peers": [
+    "geo_slices_continental_downloaders": [
         {
             "number": 1,
             "name": "Europe",
@@ -284,7 +284,7 @@
             "upeers_total": 133526
         }
     ],
-    "geo_country_region_city_top_30_peers": [
+    "geo_country_region_city_top_30_downloaders": [
         {
             "number": 1,
             "country_code": "RUS",
