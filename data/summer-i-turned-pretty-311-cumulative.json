@@ -1,0 +1,74 @@
+{
+    "collection_name": "Summer I turned pretty",
+    "collection_id": "311",
+    "collection_key": "summer-i-turned-pretty-311",
+    "collection_notes": "",
+    "data_version": "2025-09-22",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "0:1756800417",
+    "sample_duration": "2025-09-18-to-2025-12-06",
+    "sample_days": 80,
+    "sample_year_start": 2025,
+    "sample_year_end": 2025,
+    "sample_day_year_start": 261,
+    "sample_day_year_end": 340,
+    "collection_cumulative": {
+        "btiha": {
+            "btiha_size": 146,
+            "downloaders_total": 10447683,
+            "uploaders_total": 407426,
+            "anomaly_total": 20326650,
+            "anomaly_percentage": "194.56"
+        },
+        "unique_btiha": {
+            "btiha_size": 117,
+            "udownloaders_total": 9179284,
+            "uuploaders_total": 271591,
+            "anomaly_total": 17647138,
+            "anomaly_percentage": "192.25"
+        }
+    },
+    "data_transfer": {
+        "downloader_transfer_units": "terabyte",
+        "downloader_transfer_size": 101103.14238149117,
+        "downloader_transfer_price_1_name": "CloudFront-1-year",
+        "downloader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "downloader_transfer_price_1_USD": 673515.7119074558,
+        "uploader_transfer_units": "terabyte",
+        "uploader_transfer_size": 1716.100600227192,
+        "uploader_transfer_price_1_name": "CloudFront-1-year",
+        "uploader_transfer_price_1_per_gigabyte_cost": 0.005,
+        "uploader_transfer_price_1_USD": 176580.50300113595
+    },
+    "media_codecs_resolution": [
+        {
+            "number": 1,
+            "name": "1080",
+            "udownloaders_total": 3914980,
+            "total_percentage_udownloaders": "42.65",
+            "total_percentage_bytes": "38.27"
+        },
+        {
+            "number": 2,
+            "name": "720",
+            "udownloaders_total": 3658084,
+            "total_percentage_udownloaders": "39.85",
+            "total_percentage_bytes": "17.74"
+        },
+        {
+            "number": 3,
+            "name": "2160",
+            "udownloaders_total": 1083241,
+            "total_percentage_udownloaders": "11.80",
+            "total_percentage_bytes": "42.43"
+        },
+        {
+            "number": 4,
+            "name": "sd",
+            "udownloaders_total": 522979,
+            "total_percentage_udownloaders": "5.70",
+            "total_percentage_bytes": "1.56"
+        }
+    ],
+    "geo_country_region_city_top_30_udownloaders": []
+}
