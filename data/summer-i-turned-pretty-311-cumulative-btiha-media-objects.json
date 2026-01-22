@@ -5,7 +5,7 @@
     "collection_notes": "",
     "data_version": "2025-09-22",
     "data_btiha_sort": 1,
-    "ip_geolocation_version": "0:1756800417",
+    "ip_geolocation_version": "3:1756800417",
     "collection_btiha_duplicates": [
         {
             "duplicate_id": 0,
@@ -7324,7 +7324,7 @@
     ],
     "collection_cumulative_by_btiha": [
         {
-            "id": 1459,
+            "id": 1953,
             "name": "multi-btih-12-3-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03E11.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv",
             "btih": "90a043ef255d2a6d76cea3501fc77660b8daa368",
             "resolution": "1080",
@@ -7334,22 +7334,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 355716,
-            "uuploaders": 84715
-        },
-        {
-            "id": 1464,
-            "name": "multi-btih-17-2-x-[Bitsearch.to] www.1Tamilblasters.digital - The Summer I Turned Pretty (2025) S03 EP11 - 720p - HQ HDRip - [Tam Tel Hin Mal Kan Eng].mkv",
-            "btih": "2044dbb6cf8da99cdc79704df81a2711e64aa02e",
-            "resolution": "720",
-            "encoding": "none",
-            "gigabytes": 0.659218841,
-            "creation": "2025-09-27T14:19:30.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 269837,
-            "uuploaders": 1334
+            "udownloaders": 441908,
+            "uuploaders": 88168
         },
         {
             "id": 79,
@@ -7362,25 +7348,25 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 269449,
-            "uuploaders": 9684
+            "udownloaders": 374740,
+            "uuploaders": 10788
         },
         {
-            "id": 1465,
-            "name": "multi-btih-18-2-x-[Bitsearch.to] www.1Tamilblasters.digital - The Summer I Turned Pretty (2025) S03 EP11 - HQ HDRip - [Tam Tel Hin] - x264 - AAC - 250MB - ESub.mkv",
-            "btih": "b4d239fff72e1dc1574e67c635487ba4c160969a",
+            "id": 1958,
+            "name": "multi-btih-17-2-x-[Bitsearch.to] www.1Tamilblasters.digital - The Summer I Turned Pretty (2025) S03 EP11 - 720p - HQ HDRip - [Tam Tel Hin Mal Kan Eng].mkv",
+            "btih": "2044dbb6cf8da99cdc79704df81a2711e64aa02e",
             "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 0.28742181,
-            "creation": "2025-10-01T01:00:08.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "encoding": "none",
+            "gigabytes": 0.659218841,
+            "creation": "2025-09-27T14:19:30.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 233145,
-            "uuploaders": 1592
+            "udownloaders": 338193,
+            "uuploaders": 1704
         },
         {
-            "id": 1456,
+            "id": 1950,
             "name": "multi-btih-9-3-x-[Bitsearch.to] The Summer I Turned Pretty S03E11 720p x264-FENiX[EZTVx.to].mkv",
             "btih": "f712c08a28a8247208ee813b5666104969eb72d8",
             "resolution": "720",
@@ -7390,64 +7376,22 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 224031,
-            "uuploaders": 2506
+            "udownloaders": 322900,
+            "uuploaders": 2972
         },
         {
-            "id": 1454,
-            "name": "multi-btih-7-3-x-The.Summer.I.Turned.Pretty.S03E11.XviD-AFG.avi_[720p]_[YTSTV.hair](1)",
-            "btih": "43f3b6b830d011c089b5606ce083aea2d5a57df8",
-            "resolution": "720",
-            "encoding": "xvid",
-            "gigabytes": 0.80437213,
-            "creation": "2025-09-18T16:00:58.000000000Z,YTS TV - http://ytstv.lol,Torrent Downloaded from => https://ytstv.hair",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 198654,
-            "uuploaders": 2187
-        },
-        {
-            "id": 1451,
-            "name": "multi-btih-4-2-x-The.Summer.I.Turned.Pretty.S03E11.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
-            "btih": "7e2bf42420349d679a16d14709d8438d32f4854b",
-            "resolution": "sd",
-            "encoding": "264",
-            "gigabytes": 0.463430601,
-            "creation": "2025-09-18T02:25:46.000000000Z,YTS TV - http://ytstv.lol,Torrent Downloaded from => https://ytstv.hair",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 196766,
-            "uuploaders": 16796
-        },
-        {
-            "id": 1463,
-            "name": "multi-btih-16-2-x-[Bitsearch.to] [DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.PL.AMZN.WEB-DL.H264.DDP5.1-K83",
-            "btih": "ecd48e5f21ee347de47a5199cb4eaa917af60a6c",
+            "id": 1959,
+            "name": "multi-btih-18-2-x-[Bitsearch.to] www.1Tamilblasters.digital - The Summer I Turned Pretty (2025) S03 EP11 - HQ HDRip - [Tam Tel Hin] - x264 - AAC - 250MB - ESub.mkv",
+            "btih": "b4d239fff72e1dc1574e67c635487ba4c160969a",
             "resolution": "720",
             "encoding": "264",
-            "gigabytes": 9.423017204,
-            "creation": "2025-09-20T20:16:24.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "gigabytes": 0.28742181,
+            "creation": "2025-10-01T01:00:08.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 191465,
-            "uuploaders": 691
-        },
-        {
-            "id": 1466,
-            "name": "multi-btih-19-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 720p x264-FENiX",
-            "btih": "995491904387b632df04a68f1954998006e32d62",
-            "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 1.001829274,
-            "creation": "2025-10-02T09:59:24.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 183890,
-            "uuploaders": 1137
+            "udownloaders": 321194,
+            "uuploaders": 2152
         },
         {
             "id": 109,
@@ -7460,39 +7404,39 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 180513,
-            "uuploaders": 1214
+            "udownloaders": 275671,
+            "uuploaders": 1598
         },
         {
-            "id": 1449,
-            "name": "multi-btih-2-2-x-The.Summer.I.Turned.Pretty.S03.1080p.AMZN.WEB-DL.H.264",
-            "btih": "43560b38100243917688635cf3491a95921f4ec0",
-            "resolution": "1080",
+            "id": 1945,
+            "name": "multi-btih-4-2-x-The.Summer.I.Turned.Pretty.S03E11.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
+            "btih": "7e2bf42420349d679a16d14709d8438d32f4854b",
+            "resolution": "sd",
             "encoding": "264",
-            "gigabytes": 52.674365883,
-            "creation": "1970-01-01T00:00:00.000000000Z",
+            "gigabytes": 0.463430601,
+            "creation": "2025-09-18T02:25:46.000000000Z,YTS TV - http://ytstv.lol,Torrent Downloaded from => https://ytstv.hair",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 180073,
-            "uuploaders": 3686
+            "udownloaders": 268778,
+            "uuploaders": 17549
         },
         {
-            "id": 1448,
-            "name": "multi-btih-1-2-x-The Summer I Turned Pretty S03E11 At Last 720p AMZN WEB-DL DDP5 1 Atmos H 264-RAWR[EZTVx.to].mkv",
-            "btih": "1a07d9cc021fbdf50f388aec1fb75b455da46004",
+            "id": 1948,
+            "name": "multi-btih-7-3-x-The.Summer.I.Turned.Pretty.S03E11.XviD-AFG.avi_[720p]_[YTSTV.hair](1)",
+            "btih": "43f3b6b830d011c089b5606ce083aea2d5a57df8",
             "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 2.543006266,
-            "creation": "2025-09-17T08:28:21.000000000Z,EZTV,Visit us: https://eztvx.to/ (eztvstatus.org, eztv.re, eztv.li, eztv.ag, eztv.it, eztv.ch)",
+            "encoding": "xvid",
+            "gigabytes": 0.80437213,
+            "creation": "2025-09-18T16:00:58.000000000Z,YTS TV - http://ytstv.lol,Torrent Downloaded from => https://ytstv.hair",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 179461,
-            "uuploaders": 5340
+            "udownloaders": 257809,
+            "uuploaders": 2576
         },
         {
-            "id": 1452,
+            "id": 1946,
             "name": "multi-btih-5-2-x-The.Summer.I.Turned.Pretty.S03E11.720p.HEVC.x265-MeGusta.mkv_[720p]_[YTSTV.hair]",
             "btih": "b1bd8fe186fae8769a875d2e8230a4fec23e5329",
             "resolution": "720",
@@ -7502,39 +7446,39 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 174886,
-            "uuploaders": 18107
+            "udownloaders": 251767,
+            "uuploaders": 18894
         },
         {
-            "id": 1457,
-            "name": "multi-btih-10-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03.1080p.WEB-DL-[Feranki1980]",
-            "btih": "2c8cde2f5bfbfb915c836a73c248df2b0b908baf",
-            "resolution": "1080",
-            "encoding": "none",
-            "gigabytes": 9.02703025,
-            "creation": "2025-10-03T06:28:14.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 174059,
-            "uuploaders": 11817
-        },
-        {
-            "id": 1467,
-            "name": "multi-btih-20-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 At Last 1080p AMZN WEB-DL DD 5 1 H 264-playWEB",
-            "btih": "a06ddadded204f5502cc04f01d1a70aee763e9c7",
+            "id": 1943,
+            "name": "multi-btih-2-2-x-The.Summer.I.Turned.Pretty.S03.1080p.AMZN.WEB-DL.H.264",
+            "btih": "43560b38100243917688635cf3491a95921f4ec0",
             "resolution": "1080",
             "encoding": "264",
-            "gigabytes": 6.038074948,
-            "creation": "2025-09-24T23:57:47.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "gigabytes": 52.674365883,
+            "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 167054,
-            "uuploaders": 2630
+            "udownloaders": 240343,
+            "uuploaders": 4132
         },
         {
-            "id": 1471,
+            "id": 1957,
+            "name": "multi-btih-16-2-x-[Bitsearch.to] [DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.PL.AMZN.WEB-DL.H264.DDP5.1-K83",
+            "btih": "ecd48e5f21ee347de47a5199cb4eaa917af60a6c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 9.423017204,
+            "creation": "2025-09-20T20:16:24.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 234848,
+            "uuploaders": 898
+        },
+        {
+            "id": 1965,
             "name": "multi-btih-24-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.1080p.WEB.h264-ETHEL",
             "btih": "408fab4e1a144d8d45fd8b5f8654e7c0eddd6778",
             "resolution": "1080",
@@ -7544,81 +7488,11 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 162257,
-            "uuploaders": 7039
+            "udownloaders": 233785,
+            "uuploaders": 7568
         },
         {
-            "id": 1472,
-            "name": "multi-btih-25-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.720p.HEVC.x265-MeGusta",
-            "btih": "f45cd1c81235ca2ce1b1872e2d6ce7051f2a9672",
-            "resolution": "720",
-            "encoding": "265",
-            "gigabytes": 0.596990018,
-            "creation": "2025-09-21T18:17:19.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 154660,
-            "uuploaders": 2573
-        },
-        {
-            "id": 1469,
-            "name": "multi-btih-22-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.1080p.AV1.10bit-MeGusta",
-            "btih": "835d27d70fc21d94d7521c8fbd85bdfa3d8aeaec",
-            "resolution": "1080",
-            "encoding": "none",
-            "gigabytes": 0.652332646,
-            "creation": "2025-09-22T13:37:50.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 153735,
-            "uuploaders": 1448
-        },
-        {
-            "id": 1450,
-            "name": "multi-btih-3-2-x-The.Summer.I.Turned.Pretty.S03.2160p.AMZN.WEB-DL.HDR.H.265",
-            "btih": "e5225d2ace84647bc456f45fbf23fd85e2906f0c",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 75.594308801,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 153563,
-            "uuploaders": 2524
-        },
-        {
-            "id": 1470,
-            "name": "multi-btih-23-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.1080p.HEVC.x265-MeGusta",
-            "btih": "39cd52f8e1216917967b1bcbe39c71a96e4befbe",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 0.75719485,
-            "creation": "2025-09-21T18:25:20.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 151934,
-            "uuploaders": 3584
-        },
-        {
-            "id": 1455,
-            "name": "multi-btih-8-2-x-[BEST-TORRENTS.COM] The.Summer.I.Turned.Pretty.Sezon03.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
-            "btih": "c77269ee94081d67486d86842a89910c3a68227c",
-            "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 25.052856526,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 147655,
-            "uuploaders": 902
-        },
-        {
-            "id": 1453,
+            "id": 1947,
             "name": "multi-btih-6-2-x-The.Summer.I.Turned.Pretty.S03E11.At.Last.480p.x264-mSD.mkv_[480p]_[YTSTV.hair]",
             "btih": "28057053f175ef04183451967f05fd5910ed2ac5",
             "resolution": "sd",
@@ -7628,22 +7502,162 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 147589,
-            "uuploaders": 2558
+            "udownloaders": 232743,
+            "uuploaders": 3219
         },
         {
-            "id": 1461,
-            "name": "multi-btih-14-2-x-[Bitsearch.to] The.Summer.i.Turned.Pretty.S03.400p.Ultradox",
-            "btih": "77bbbf6f9360044f9dfca2aa3f2b7ac190492822",
+            "id": 1942,
+            "name": "multi-btih-1-2-x-The Summer I Turned Pretty S03E11 At Last 720p AMZN WEB-DL DDP5 1 Atmos H 264-RAWR[EZTVx.to].mkv",
+            "btih": "1a07d9cc021fbdf50f388aec1fb75b455da46004",
             "resolution": "720",
-            "encoding": "none",
-            "gigabytes": 9.726390272,
-            "creation": "2025-09-30T19:20:03.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "encoding": "264",
+            "gigabytes": 2.543006266,
+            "creation": "2025-09-17T08:28:21.000000000Z,EZTV,Visit us: https://eztvx.to/ (eztvstatus.org, eztv.re, eztv.li, eztv.ag, eztv.it, eztv.ch)",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 144667,
-            "uuploaders": 482
+            "udownloaders": 230894,
+            "uuploaders": 5928
+        },
+        {
+            "id": 1960,
+            "name": "multi-btih-19-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 720p x264-FENiX",
+            "btih": "995491904387b632df04a68f1954998006e32d62",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.001829274,
+            "creation": "2025-10-02T09:59:24.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 230388,
+            "uuploaders": 1450
+        },
+        {
+            "id": 1966,
+            "name": "multi-btih-25-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.720p.HEVC.x265-MeGusta",
+            "btih": "f45cd1c81235ca2ce1b1872e2d6ce7051f2a9672",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.596990018,
+            "creation": "2025-09-21T18:17:19.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 229965,
+            "uuploaders": 3049
+        },
+        {
+            "id": 1962,
+            "name": "multi-btih-21-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX",
+            "btih": "485e175967dffa414fe7c6812fe2504e5893b73f",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 8.877662963,
+            "creation": "2025-10-01T03:22:00.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 221114,
+            "uuploaders": 2331
+        },
+        {
+            "id": 1944,
+            "name": "multi-btih-3-2-x-The.Summer.I.Turned.Pretty.S03.2160p.AMZN.WEB-DL.HDR.H.265",
+            "btih": "e5225d2ace84647bc456f45fbf23fd85e2906f0c",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 75.594308801,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 219824,
+            "uuploaders": 2888
+        },
+        {
+            "id": 1951,
+            "name": "multi-btih-10-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03.1080p.WEB-DL-[Feranki1980]",
+            "btih": "2c8cde2f5bfbfb915c836a73c248df2b0b908baf",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 9.02703025,
+            "creation": "2025-10-03T06:28:14.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 217919,
+            "uuploaders": 13766
+        },
+        {
+            "id": 1941,
+            "name": "multi-btih-0-2-x-The Summer I Turned Pretty S03E11 1080p WEB HEVC x265-RMTeam[EZTVx.to].mkv",
+            "btih": "562f8769e70ff07682bcd38fe8b38d77bf3ac2d4",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.089821847,
+            "creation": "2025-09-17T15:00:04.000000000Z,EZTV,Visit us: https://eztvx.to/ (eztvstatus.org, eztv.re, eztv.li, eztv.ag, eztv.it, eztv.ch)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 216763,
+            "uuploaders": 4660
+        },
+        {
+            "id": 1963,
+            "name": "multi-btih-22-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.1080p.AV1.10bit-MeGusta",
+            "btih": "835d27d70fc21d94d7521c8fbd85bdfa3d8aeaec",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 0.652332646,
+            "creation": "2025-09-22T13:37:50.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 206836,
+            "uuploaders": 1875
+        },
+        {
+            "id": 1964,
+            "name": "multi-btih-23-2-x-[Bitsearch.to] www.UIndex.org - The.Summer.I.Turned.Pretty.S03E11.1080p.HEVC.x265-MeGusta",
+            "btih": "39cd52f8e1216917967b1bcbe39c71a96e4befbe",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.75719485,
+            "creation": "2025-09-21T18:25:20.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 206186,
+            "uuploaders": 4099
+        },
+        {
+            "id": 1961,
+            "name": "multi-btih-20-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 At Last 1080p AMZN WEB-DL DD 5 1 H 264-playWEB",
+            "btih": "a06ddadded204f5502cc04f01d1a70aee763e9c7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.038074948,
+            "creation": "2025-09-24T23:57:47.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 201069,
+            "uuploaders": 3073
+        },
+        {
+            "id": 1949,
+            "name": "multi-btih-8-2-x-[BEST-TORRENTS.COM] The.Summer.I.Turned.Pretty.Sezon03.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
+            "btih": "c77269ee94081d67486d86842a89910c3a68227c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 25.052856526,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 195222,
+            "uuploaders": 1054
         },
         {
             "id": 127,
@@ -7656,36 +7670,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 143632,
-            "uuploaders": 1608
-        },
-        {
-            "id": 1460,
-            "name": "multi-btih-13-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03E11.Eng.mp4",
-            "btih": "42aed72559ebcf3175c8b31ec8e4c828c3425fed",
-            "resolution": "720",
-            "encoding": "none",
-            "gigabytes": 1.025493541,
-            "creation": "2025-09-28T12:00:10.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 136835,
-            "uuploaders": 585
-        },
-        {
-            "id": 1447,
-            "name": "multi-btih-0-2-x-The Summer I Turned Pretty S03E11 1080p WEB HEVC x265-RMTeam[EZTVx.to].mkv",
-            "btih": "562f8769e70ff07682bcd38fe8b38d77bf3ac2d4",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.089821847,
-            "creation": "2025-09-17T15:00:04.000000000Z,EZTV,Visit us: https://eztvx.to/ (eztvstatus.org, eztv.re, eztv.li, eztv.ag, eztv.it, eztv.ch)",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 135451,
-            "uuploaders": 4131
+            "udownloaders": 189199,
+            "uuploaders": 1912
         },
         {
             "id": 118,
@@ -7698,78 +7684,22 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 132506,
-            "uuploaders": 717
+            "udownloaders": 185428,
+            "uuploaders": 815
         },
         {
-            "id": 1468,
-            "name": "multi-btih-21-2-x-[Bitsearch.to] www.UIndex.org - The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos H 265-FLUX",
-            "btih": "485e175967dffa414fe7c6812fe2504e5893b73f",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 8.877662963,
-            "creation": "2025-10-01T03:22:00.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 131665,
-            "uuploaders": 1979
-        },
-        {
-            "id": 126,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune",
-            "btih": "77b44755ee8713b3e009a15e2ace59dea37a37f0",
-            "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 5.923992556,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 131560,
-            "uuploaders": 635
-        },
-        {
-            "id": 68,
-            "name": "The.Summer.I.Turned.Pretty.s03.HD720p.WEBRip.Rus.RuDub.tv",
-            "btih": "c29574e0e0251631e404c790000918d14f042c93",
+            "id": 1955,
+            "name": "multi-btih-14-2-x-[Bitsearch.to] The.Summer.i.Turned.Pretty.S03.400p.Ultradox",
+            "btih": "77bbbf6f9360044f9dfca2aa3f2b7ac190492822",
             "resolution": "720",
             "encoding": "none",
-            "gigabytes": 21.856710262,
-            "creation": "1970-01-01T00:00:00.000000000Z",
+            "gigabytes": 9.726390272,
+            "creation": "2025-09-30T19:20:03.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 120224,
-            "uuploaders": 942
-        },
-        {
-            "id": 1462,
-            "name": "multi-btih-15-2-x-[Bitsearch.to] [DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
-            "btih": "ce5042cc0d96cd7fb2df8abca658363253213044",
-            "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 25.052857453,
-            "creation": "2025-09-27T05:14:15.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 119107,
-            "uuploaders": 2039
-        },
-        {
-            "id": 67,
-            "name": "The.Summer.I.Turned.Pretty.s03.HD1080p.WEBRip.Rus.RuDub.tv",
-            "btih": "7328c1b1a73bff3deda60d3cd4397b2dfb246fea",
-            "resolution": "1080",
-            "encoding": "none",
-            "gigabytes": 39.411683509,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 117152,
-            "uuploaders": 202
+            "udownloaders": 179646,
+            "uuploaders": 554
         },
         {
             "id": 141,
@@ -7782,92 +7712,36 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 113028,
-            "uuploaders": 1246
+            "udownloaders": 179071,
+            "uuploaders": 1444
         },
         {
-            "id": 113,
-            "name": "www.1TamilMV.cab - The Summer I Turned Pretty (2025) S03 EP11 - 720p - HQ HDRip - [Tam + Tel + Hin + Mal + Kan + Eng].mkv",
-            "btih": "7dbec7e56e86b96ee6353722236369d4b2c877a5",
+            "id": 1954,
+            "name": "multi-btih-13-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03E11.Eng.mp4",
+            "btih": "42aed72559ebcf3175c8b31ec8e4c828c3425fed",
             "resolution": "720",
             "encoding": "none",
-            "gigabytes": 0.659218769,
-            "creation": "1970-01-01T00:00:00.000000000Z",
+            "gigabytes": 1.025493541,
+            "creation": "2025-09-28T12:00:10.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 112360,
-            "uuploaders": 1091
+            "udownloaders": 178298,
+            "uuploaders": 765
         },
         {
-            "id": 120,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
-            "btih": "1e13df93b81c59e504ddb88a6cf945c76d365b7e",
+            "id": 67,
+            "name": "The.Summer.I.Turned.Pretty.s03.HD1080p.WEBRip.Rus.RuDub.tv",
+            "btih": "7328c1b1a73bff3deda60d3cd4397b2dfb246fea",
             "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 6.41840631,
+            "encoding": "none",
+            "gigabytes": 39.411683509,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 112350,
-            "uuploaders": 1013
-        },
-        {
-            "id": 119,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p 10bit WEBRip 6CH X265 HEVC-PSA",
-            "btih": "38f4f10e68bdfb683628ee40596ec592cafcddf9",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.100105122,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 109053,
-            "uuploaders": 3656
-        },
-        {
-            "id": 121,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p WEB HEVC x265-RMTeam",
-            "btih": "d890dbf3d13286e5f347a22e7f53c5cacd800c3d",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.089823114,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 108362,
-            "uuploaders": 898
-        },
-        {
-            "id": 130,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX",
-            "btih": "a01dcbd65cad96c61a91f144873005ff0d0555ad",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 8.847050111,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 107524,
-            "uuploaders": 4115
-        },
-        {
-            "id": 80,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.x265-ELiTE",
-            "btih": "7eae39bfd55cc18994ec70b49c3fbe8336c356e8",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.534535945,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 106305,
-            "uuploaders": 5567
+            "udownloaders": 172430,
+            "uuploaders": 278
         },
         {
             "id": 91,
@@ -7880,120 +7754,92 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 106282,
-            "uuploaders": 4870
+            "udownloaders": 167115,
+            "uuploaders": 5529
         },
         {
-            "id": 132,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 720p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX",
-            "btih": "f6af28062afa1b6489586f00411736a1dc1829bd",
+            "id": 113,
+            "name": "www.1TamilMV.cab - The Summer I Turned Pretty (2025) S03 EP11 - 720p - HQ HDRip - [Tam + Tel + Hin + Mal + Kan + Eng].mkv",
+            "btih": "7dbec7e56e86b96ee6353722236369d4b2c877a5",
             "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.659218769,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 162175,
+            "uuploaders": 1355
+        },
+        {
+            "id": 120,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p AMZN WEB-DL DDP5 1 H 264 DUAL-BiOMA",
+            "btih": "1e13df93b81c59e504ddb88a6cf945c76d365b7e",
+            "resolution": "1080",
             "encoding": "264",
-            "gigabytes": 2.54286782,
+            "gigabytes": 6.41840631,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 105908,
-            "uuploaders": 1567
+            "udownloaders": 159078,
+            "uuploaders": 1047
         },
         {
-            "id": 87,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.720p.ColdFilm.mkv",
-            "btih": "0bed730a0ead19107fbf8b856d8b88821c435c1f",
+            "id": 68,
+            "name": "The.Summer.I.Turned.Pretty.s03.HD720p.WEBRip.Rus.RuDub.tv",
+            "btih": "c29574e0e0251631e404c790000918d14f042c93",
             "resolution": "720",
             "encoding": "none",
-            "gigabytes": 1.942677792,
+            "gigabytes": 21.856710262,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 105656,
-            "uuploaders": 1458
+            "udownloaders": 155049,
+            "uuploaders": 1206
         },
         {
-            "id": 69,
-            "name": "The.Summer.I.Turned.Pretty.S03.WEB-DLRip.TVShows",
-            "btih": "ba34a3b564d28b94f6b388b87f673dbe0062175b",
-            "resolution": "sd",
-            "encoding": "none",
-            "gigabytes": 12.666574848,
+            "id": 126,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune",
+            "btih": "77b44755ee8713b3e009a15e2ace59dea37a37f0",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 5.923992556,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 105613,
-            "uuploaders": 747
+            "udownloaders": 154608,
+            "uuploaders": 704
         },
         {
-            "id": 128,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DD 5 1 H 265-playWEB",
-            "btih": "a89522f5c8a398a4f8e19f4ea5de11ff1fa12ff0",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 8.991816809,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 101949,
-            "uuploaders": 1674
-        },
-        {
-            "id": 145,
-            "name": "【高清剧集网发布 www.BBHDTV.com】我变美的那夏天.第三季[全11集][简繁英字幕].2160p.AMZN.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV",
-            "btih": "0f67503df4a147977ce7d8aab1b915f4015ed0d4",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 99.848376661,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 101785,
-            "uuploaders": 364
-        },
-        {
-            "id": 140,
-            "name": "www.UIndex.org    -    The.Summer.I.Turned.Pretty.S03E11.At.Last.1080p.HEVC.x265-MeGusta",
-            "btih": "ef49750fcc00a9351879b1c0bb4cf3d032a30e49",
+            "id": 121,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p WEB HEVC x265-RMTeam",
+            "btih": "d890dbf3d13286e5f347a22e7f53c5cacd800c3d",
             "resolution": "1080",
             "encoding": "265",
-            "gigabytes": 0.871266891,
+            "gigabytes": 1.089823114,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 100458,
-            "uuploaders": 2111
+            "udownloaders": 152641,
+            "uuploaders": 1057
         },
         {
-            "id": 123,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 720p WEB H264-JFF",
-            "btih": "a42de490fc342d73df9bb41444e2f34237ac0df2",
+            "id": 1956,
+            "name": "multi-btih-15-2-x-[Bitsearch.to] [DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.720p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
+            "btih": "ce5042cc0d96cd7fb2df8abca658363253213044",
             "resolution": "720",
             "encoding": "264",
-            "gigabytes": 2.549917979,
-            "creation": "1970-01-01T00:00:00.000000000Z",
+            "gigabytes": 25.052857453,
+            "creation": "2025-09-27T05:14:15.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 100198,
-            "uuploaders": 879
-        },
-        {
-            "id": 66,
-            "name": "The.Summer.I.Turned.Pretty.S03.720p.WEB-DL-[Feranki1980]",
-            "btih": "976376030fca7d36635c7a412a71d02929009b75",
-            "resolution": "720",
-            "encoding": "none",
-            "gigabytes": 5.298434999,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 97273,
-            "uuploaders": 6094
+            "udownloaders": 147538,
+            "uuploaders": 2677
         },
         {
             "id": 131,
@@ -8006,78 +7852,22 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 97152,
-            "uuploaders": 882
+            "udownloaders": 146644,
+            "uuploaders": 1051
         },
         {
-            "id": 1458,
-            "name": "multi-btih-11-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03E11.1080p.ENG.ITA.H265-TheWhiteQueen.mkv",
-            "btih": "8905369a6ff3e37c4777820a4c418d76e53afdb5",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 2.037590326,
-            "creation": "2025-09-20T02:29:38.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 95320,
-            "uuploaders": 2887
-        },
-        {
-            "id": 29,
-            "name": "Tego lata stałam się piękna - The Summer I Turned Pretty 2022-2025 [AMZN] [S01-03] [1080p.WEB-DL.H264-FT] [ENG-Lektor PL] [Alusia]",
-            "btih": "c2f0bbcf8e6ac6c36593d93a2389c7f390f7f446",
-            "resolution": "1080",
+            "id": 132,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 720p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX",
+            "btih": "f6af28062afa1b6489586f00411736a1dc1829bd",
+            "resolution": "720",
             "encoding": "264",
-            "gigabytes": 29.057894021,
+            "gigabytes": 2.54286782,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 92773,
-            "uuploaders": 433
-        },
-        {
-            "id": 115,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E03 Last Supper 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX",
-            "btih": "0d30a9b3c4afa8268672758d8a4aa6e8dc0cb263",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 6.129621302,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 91203,
-            "uuploaders": 2865
-        },
-        {
-            "id": 117,
-            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E05 Last Dance 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-Kitsune",
-            "btih": "6a5d8d054cd7d2710f82935685d812ab8bf6b87b",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 7.485843055,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 91168,
-            "uuploaders": 964
-        },
-        {
-            "id": 25,
-            "name": "[DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1.Atmos-K83",
-            "btih": "a8b6686f9a5e9e2206374cd1f198aa28d9d34b03",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 98.270720455,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 90886,
-            "uuploaders": 2030
+            "udownloaders": 146145,
+            "uuploaders": 1920
         },
         {
             "id": 86,
@@ -8090,36 +7880,162 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 90599,
-            "uuploaders": 625
+            "udownloaders": 140330,
+            "uuploaders": 721
         },
         {
-            "id": 144,
-            "name": "【高清剧集网发布 www.BBHDTV.com】我变美的那夏天.第三季[全11集][简繁英字幕].1080p.AMZN.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV",
-            "btih": "94722d358bf5a28f4f188132bea0b1f62612ffc3",
-            "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 50.640082364,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 86397,
-            "uuploaders": 492
-        },
-        {
-            "id": 114,
-            "name": "www.1TamilMV.gy - The Summer I Turned Pretty (2025) S03 EP11 - 1080p - HQ HDRip - [Tam + Tel + Hin + Mal + Kan + Eng].mkv",
-            "btih": "4df5cdf06b1444b0fab3be3256975bcc01f8f6ca",
-            "resolution": "1080",
+            "id": 69,
+            "name": "The.Summer.I.Turned.Pretty.S03.WEB-DLRip.TVShows",
+            "btih": "ba34a3b564d28b94f6b388b87f673dbe0062175b",
+            "resolution": "sd",
             "encoding": "none",
-            "gigabytes": 1.542264919,
+            "gigabytes": 12.666574848,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 85098,
-            "uuploaders": 732
+            "udownloaders": 138151,
+            "uuploaders": 843
+        },
+        {
+            "id": 119,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 1080p 10bit WEBRip 6CH X265 HEVC-PSA",
+            "btih": "38f4f10e68bdfb683628ee40596ec592cafcddf9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.100105122,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 136871,
+            "uuploaders": 4015
+        },
+        {
+            "id": 145,
+            "name": "【高清剧集网发布 www.BBHDTV.com】我变美的那夏天.第三季[全11集][简繁英字幕].2160p.AMZN.WEB-DL.DDP.5.1.Atmos.HDR10+.H.265-BlackTV",
+            "btih": "0f67503df4a147977ce7d8aab1b915f4015ed0d4",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 99.848376661,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 135365,
+            "uuploaders": 420
+        },
+        {
+            "id": 1952,
+            "name": "multi-btih-11-2-x-[Bitsearch.to] The.Summer.I.Turned.Pretty.S03E11.1080p.ENG.ITA.H265-TheWhiteQueen.mkv",
+            "btih": "8905369a6ff3e37c4777820a4c418d76e53afdb5",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.037590326,
+            "creation": "2025-09-20T02:29:38.000000000Z,bitsearch.to,Downloaded from bitsearch.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 134182,
+            "uuploaders": 3396
+        },
+        {
+            "id": 87,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.720p.ColdFilm.mkv",
+            "btih": "0bed730a0ead19107fbf8b856d8b88821c435c1f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.942677792,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 133752,
+            "uuploaders": 1627
+        },
+        {
+            "id": 130,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX",
+            "btih": "a01dcbd65cad96c61a91f144873005ff0d0555ad",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 8.847050111,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 133449,
+            "uuploaders": 4639
+        },
+        {
+            "id": 80,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.x265-ELiTE",
+            "btih": "7eae39bfd55cc18994ec70b49c3fbe8336c356e8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.534535945,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 129668,
+            "uuploaders": 6208
+        },
+        {
+            "id": 128,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DD 5 1 H 265-playWEB",
+            "btih": "a89522f5c8a398a4f8e19f4ea5de11ff1fa12ff0",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 8.991816809,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 127245,
+            "uuploaders": 2041
+        },
+        {
+            "id": 140,
+            "name": "www.UIndex.org    -    The.Summer.I.Turned.Pretty.S03E11.At.Last.1080p.HEVC.x265-MeGusta",
+            "btih": "ef49750fcc00a9351879b1c0bb4cf3d032a30e49",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.871266891,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 127070,
+            "uuploaders": 2485
+        },
+        {
+            "id": 117,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E05 Last Dance 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-Kitsune",
+            "btih": "6a5d8d054cd7d2710f82935685d812ab8bf6b87b",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 7.485843055,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 126337,
+            "uuploaders": 1249
+        },
+        {
+            "id": 123,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E11 720p WEB H264-JFF",
+            "btih": "a42de490fc342d73df9bb41444e2f34237ac0df2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.549917979,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 125818,
+            "uuploaders": 1181
         },
         {
             "id": 19,
@@ -8132,8 +8048,78 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 84940,
-            "uuploaders": 763
+            "udownloaders": 125225,
+            "uuploaders": 1000
+        },
+        {
+            "id": 25,
+            "name": "[DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.2160p.AMZN.WEB-DL.HDR.H265.DDP5.1.Atmos-K83",
+            "btih": "a8b6686f9a5e9e2206374cd1f198aa28d9d34b03",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 98.270720455,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 121260,
+            "uuploaders": 3113
+        },
+        {
+            "id": 144,
+            "name": "【高清剧集网发布 www.BBHDTV.com】我变美的那夏天.第三季[全11集][简繁英字幕].1080p.AMZN.WEB-DL.DDP.5.1.Atmos.H.264-BlackTV",
+            "btih": "94722d358bf5a28f4f188132bea0b1f62612ffc3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 50.640082364,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 120990,
+            "uuploaders": 630
+        },
+        {
+            "id": 66,
+            "name": "The.Summer.I.Turned.Pretty.S03.720p.WEB-DL-[Feranki1980]",
+            "btih": "976376030fca7d36635c7a412a71d02929009b75",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.298434999,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 119532,
+            "uuploaders": 6862
+        },
+        {
+            "id": 29,
+            "name": "Tego lata stałam się piękna - The Summer I Turned Pretty 2022-2025 [AMZN] [S01-03] [1080p.WEB-DL.H264-FT] [ENG-Lektor PL] [Alusia]",
+            "btih": "c2f0bbcf8e6ac6c36593d93a2389c7f390f7f446",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 29.057894021,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 118007,
+            "uuploaders": 585
+        },
+        {
+            "id": 115,
+            "name": "www.UIndex.org    -    The Summer I Turned Pretty S03E03 Last Supper 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX",
+            "btih": "0d30a9b3c4afa8268672758d8a4aa6e8dc0cb263",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 6.129621302,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 117061,
+            "uuploaders": 3305
         },
         {
             "id": 134,
@@ -8146,36 +8132,22 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 82314,
-            "uuploaders": 1351
+            "udownloaders": 114726,
+            "uuploaders": 1768
         },
         {
-            "id": 65,
-            "name": "The.Summer.i.Turned.Pretty.S03.720p.Ultradox",
-            "btih": "503c6bbf7589111cf264d366999f1ee9305c0b43",
-            "resolution": "720",
-            "encoding": "none",
-            "gigabytes": 15.437747016,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 75612,
-            "uuploaders": 437
-        },
-        {
-            "id": 1,
-            "name": "[BEST-TORRENTS.COM] The.Summer.I.Turned.Pretty.Sezon03.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
-            "btih": "8e5e0cfffc3fabbbb34ed462d38bc0163c2546a6",
+            "id": 114,
+            "name": "www.1TamilMV.gy - The Summer I Turned Pretty (2025) S03 EP11 - 1080p - HQ HDRip - [Tam + Tel + Hin + Mal + Kan + Eng].mkv",
+            "btih": "4df5cdf06b1444b0fab3be3256975bcc01f8f6ca",
             "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 53.918361059,
+            "encoding": "none",
+            "gigabytes": 1.542264919,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 75311,
-            "uuploaders": 805
+            "udownloaders": 107197,
+            "uuploaders": 915
         },
         {
             "id": 122,
@@ -8188,36 +8160,36 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 75013,
-            "uuploaders": 1287
+            "udownloaders": 104691,
+            "uuploaders": 1568
         },
         {
-            "id": 82,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.400p.ColdFilm.avi",
-            "btih": "96200737feee45e538e1c75d5a022d8f3c2ab3bc",
-            "resolution": "sd",
-            "encoding": "none",
-            "gigabytes": 0.910595154,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 72374,
-            "uuploaders": 814
-        },
-        {
-            "id": 71,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
-            "btih": "3d396a68f75ba1af1021683c46e375cffdc01fb1",
+            "id": 1,
+            "name": "[BEST-TORRENTS.COM] The.Summer.I.Turned.Pretty.Sezon03.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
+            "btih": "8e5e0cfffc3fabbbb34ed462d38bc0163c2546a6",
             "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.100103613,
+            "encoding": "264",
+            "gigabytes": 53.918361059,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 71559,
-            "uuploaders": 397
+            "udownloaders": 103616,
+            "uuploaders": 950
+        },
+        {
+            "id": 65,
+            "name": "The.Summer.i.Turned.Pretty.S03.720p.Ultradox",
+            "btih": "503c6bbf7589111cf264d366999f1ee9305c0b43",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 15.437747016,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 103423,
+            "uuploaders": 540
         },
         {
             "id": 112,
@@ -8230,22 +8202,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 69734,
-            "uuploaders": 1068
-        },
-        {
-            "id": 135,
-            "name": "www.UIndex.org    -    The.Summer.I.Turned.Pretty.S03E04.Last.Stand.1080p.HEVC.x265-MeGusta",
-            "btih": "60c9c0d080cbac3e2087635a8b23964b387ec99e",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 0.503005407,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": false,
-            "i2p": false,
-            "udownloaders": 67266,
-            "uuploaders": 1237
+            "udownloaders": 102504,
+            "uuploaders": 1246
         },
         {
             "id": 2,
@@ -8258,36 +8216,36 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 66066,
-            "uuploaders": 1785
+            "udownloaders": 100648,
+            "uuploaders": 2109
         },
         {
-            "id": 24,
-            "name": "[DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
-            "btih": "e08b89cee0dc1fd20eb51ec6c7aa27187fd52b58",
+            "id": 71,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "btih": "3d396a68f75ba1af1021683c46e375cffdc01fb1",
             "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 53.918361986,
+            "encoding": "265",
+            "gigabytes": 1.100103613,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 61409,
-            "uuploaders": 960
+            "udownloaders": 100097,
+            "uuploaders": 448
         },
         {
-            "id": 73,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.ColdFilm.mkv",
-            "btih": "4b58fec1484319788ef43c1d141ab76560d71c9f",
+            "id": 135,
+            "name": "www.UIndex.org    -    The.Summer.I.Turned.Pretty.S03E04.Last.Stand.1080p.HEVC.x265-MeGusta",
+            "btih": "60c9c0d080cbac3e2087635a8b23964b387ec99e",
             "resolution": "1080",
-            "encoding": "none",
-            "gigabytes": 3.172603217,
+            "encoding": "265",
+            "gigabytes": 0.503005407,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 58384,
-            "uuploaders": 612
+            "udownloaders": 98704,
+            "uuploaders": 1583
         },
         {
             "id": 146,
@@ -8300,8 +8258,50 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 56106,
-            "uuploaders": 633
+            "udownloaders": 97146,
+            "uuploaders": 774
+        },
+        {
+            "id": 82,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.400p.ColdFilm.avi",
+            "btih": "96200737feee45e538e1c75d5a022d8f3c2ab3bc",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.910595154,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96663,
+            "uuploaders": 1020
+        },
+        {
+            "id": 24,
+            "name": "[DEVIL-TORRENTS.PL] The.Summer.I.Turned.Pretty.Sezon03.MULTi.1080p.AMZN.WEB-DL.H264.DDP5.1.Atmos-K83",
+            "btih": "e08b89cee0dc1fd20eb51ec6c7aa27187fd52b58",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 53.918361986,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81908,
+            "uuploaders": 1217
+        },
+        {
+            "id": 73,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.ColdFilm.mkv",
+            "btih": "4b58fec1484319788ef43c1d141ab76560d71c9f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.172603217,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74532,
+            "uuploaders": 716
         },
         {
             "id": 116,
@@ -8314,8 +8314,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 50090,
-            "uuploaders": 584
+            "udownloaders": 72677,
+            "uuploaders": 737
         },
         {
             "id": 133,
@@ -8328,8 +8328,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 44355,
-            "uuploaders": 1310
+            "udownloaders": 71940,
+            "uuploaders": 1511
         },
         {
             "id": 10,
@@ -8342,8 +8342,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 43800,
-            "uuploaders": 240
+            "udownloaders": 61421,
+            "uuploaders": 305
         },
         {
             "id": 70,
@@ -8356,8 +8356,8 @@
             "ssl": false,
             "private": false,
             "i2p": false,
-            "udownloaders": 25419,
-            "uuploaders": 1606
+            "udownloaders": 52799,
+            "uuploaders": 3523
         },
         {
             "id": 78,
@@ -8370,22 +8370,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 4172,
-            "uuploaders": 1809
-        },
-        {
-            "id": 75,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.HEVC.x265-MeGusta [IPT]",
-            "btih": "52e4a59a81e17724f00cf0a956e3136236b44ef6",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 0.757194721,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 2160,
-            "uuploaders": 938
+            "udownloaders": 4703,
+            "uuploaders": 1991
         },
         {
             "id": 30,
@@ -8398,8 +8384,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 2050,
-            "uuploaders": 730
+            "udownloaders": 2351,
+            "uuploaders": 859
+        },
+        {
+            "id": 75,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "52e4a59a81e17724f00cf0a956e3136236b44ef6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.757194721,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2317,
+            "uuploaders": 1030
         },
         {
             "id": 101,
@@ -8412,8 +8412,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 1693,
-            "uuploaders": 733
+            "udownloaders": 1771,
+            "uuploaders": 798
         },
         {
             "id": 32,
@@ -8426,8 +8426,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 1288,
-            "uuploaders": 512
+            "udownloaders": 1388,
+            "uuploaders": 585
         },
         {
             "id": 93,
@@ -8440,22 +8440,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 1205,
-            "uuploaders": 389
-        },
-        {
-            "id": 38,
-            "name": "The Summer I Turned Pretty S03 720p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
-            "btih": "e545702137dc2deff65e8103f2f1e9501362add1",
-            "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 22.556147548,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 849,
-            "uuploaders": 228
+            "udownloaders": 1317,
+            "uuploaders": 444
         },
         {
             "id": 88,
@@ -8468,8 +8454,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 811,
-            "uuploaders": 491
+            "udownloaders": 923,
+            "uuploaders": 555
+        },
+        {
+            "id": 38,
+            "name": "The Summer I Turned Pretty S03 720p AMZN WEB-DL DDP5 1 Atmos H 264-FLUX [IPT]",
+            "btih": "e545702137dc2deff65e8103f2f1e9501362add1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 22.556147548,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 920,
+            "uuploaders": 280
         },
         {
             "id": 34,
@@ -8482,36 +8482,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 668,
-            "uuploaders": 99
-        },
-        {
-            "id": 35,
-            "name": "The Summer I Turned Pretty S03 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]",
-            "btih": "0600541bf68984ebd1e5c67701b63324e416622b",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 75.612679073,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 638,
-            "uuploaders": 69
-        },
-        {
-            "id": 31,
-            "name": "The Summer I Turned Pretty S03 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]",
-            "btih": "335029331543fd9009f68b5bbb98bb42f9d5a2be",
-            "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 53.19692149,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 624,
-            "uuploaders": 61
+            "udownloaders": 710,
+            "uuploaders": 130
         },
         {
             "id": 48,
@@ -8524,8 +8496,36 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 621,
-            "uuploaders": 530
+            "udownloaders": 652,
+            "uuploaders": 561
+        },
+        {
+            "id": 35,
+            "name": "The Summer I Turned Pretty S03 2160p AMZN WEB-DL DD 5 1 Atmos HDR H 265-playWEB [IPT]",
+            "btih": "0600541bf68984ebd1e5c67701b63324e416622b",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 75.612679073,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 640,
+            "uuploaders": 71
+        },
+        {
+            "id": 31,
+            "name": "The Summer I Turned Pretty S03 1080p AMZN WEB-DL DD 5 1 H 264-playWEB [IPT]",
+            "btih": "335029331543fd9009f68b5bbb98bb42f9d5a2be",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 53.19692149,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 626,
+            "uuploaders": 62
         },
         {
             "id": 36,
@@ -8538,7 +8538,7 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 604,
+            "udownloaders": 605,
             "uuploaders": 71
         },
         {
@@ -8552,8 +8552,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 508,
-            "uuploaders": 251
+            "udownloaders": 557,
+            "uuploaders": 267
         },
         {
             "id": 37,
@@ -8566,8 +8566,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 457,
-            "uuploaders": 97
+            "udownloaders": 480,
+            "uuploaders": 114
         },
         {
             "id": 49,
@@ -8580,8 +8580,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 427,
-            "uuploaders": 340
+            "udownloaders": 466,
+            "uuploaders": 381
         },
         {
             "id": 39,
@@ -8594,8 +8594,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 367,
-            "uuploaders": 30
+            "udownloaders": 389,
+            "uuploaders": 44
         },
         {
             "id": 59,
@@ -8608,7 +8608,7 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 365,
+            "udownloaders": 366,
             "uuploaders": 20
         },
         {
@@ -8622,8 +8622,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 334,
-            "uuploaders": 233
+            "udownloaders": 351,
+            "uuploaders": 248
         },
         {
             "id": 56,
@@ -8636,22 +8636,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 281,
-            "uuploaders": 206
-        },
-        {
-            "id": 53,
-            "name": "The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX [IPT]",
-            "btih": "bbba73423201657ddf4afba3d91ba869e641d369",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 8.847049982,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 154,
-            "uuploaders": 125
+            "udownloaders": 310,
+            "uuploaders": 231
         },
         {
             "id": 55,
@@ -8664,8 +8650,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 152,
-            "uuploaders": 113
+            "udownloaders": 190,
+            "uuploaders": 143
+        },
+        {
+            "id": 53,
+            "name": "The Summer I Turned Pretty S03E11 At Last 2160p AMZN WEB-DL DDP5 1 Atmos HDR H 265-FLUX [IPT]",
+            "btih": "bbba73423201657ddf4afba3d91ba869e641d369",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 8.847049982,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 160,
+            "uuploaders": 130
         },
         {
             "id": 46,
@@ -8678,22 +8678,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 144,
+            "udownloaders": 145,
             "uuploaders": 143
-        },
-        {
-            "id": 81,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.2160p.WEB.h265-ETHEL [IPT]",
-            "btih": "ce7b179c8f63459f4598f2baef0a87a8b7df1a85",
-            "resolution": "2160",
-            "encoding": "265",
-            "gigabytes": 8.877633867,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 108,
-            "uuploaders": 90
         },
         {
             "id": 42,
@@ -8706,8 +8692,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 104,
-            "uuploaders": 59
+            "udownloaders": 122,
+            "uuploaders": 67
+        },
+        {
+            "id": 81,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.2160p.WEB.h265-ETHEL [IPT]",
+            "btih": "ce7b179c8f63459f4598f2baef0a87a8b7df1a85",
+            "resolution": "2160",
+            "encoding": "265",
+            "gigabytes": 8.877633867,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 119,
+            "uuploaders": 98
         },
         {
             "id": 72,
@@ -8720,8 +8720,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 101,
-            "uuploaders": 67
+            "udownloaders": 115,
+            "uuploaders": 71
         },
         {
             "id": 97,
@@ -8734,22 +8734,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 89,
-            "uuploaders": 74
-        },
-        {
-            "id": 44,
-            "name": "The Summer I Turned Pretty S03E11 1080p x265-ELiTE [IPT]",
-            "btih": "8be475301b1e829973838aaa5158471b5829d9b8",
-            "resolution": "1080",
-            "encoding": "265",
-            "gigabytes": 1.495269293,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 74,
-            "uuploaders": 62
+            "udownloaders": 91,
+            "uuploaders": 75
         },
         {
             "id": 52,
@@ -8762,22 +8748,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 74,
-            "uuploaders": 70
+            "udownloaders": 82,
+            "uuploaders": 77
         },
         {
-            "id": 58,
-            "name": "The Summer I Turned Pretty S03E11 FINAL MULTI 1080p WEB H264-HiggsBoson [IPT]",
-            "btih": "d7c52550034797507172d25a7ba9a304d3a88794",
+            "id": 44,
+            "name": "The Summer I Turned Pretty S03E11 1080p x265-ELiTE [IPT]",
+            "btih": "8be475301b1e829973838aaa5158471b5829d9b8",
             "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 6.30151966,
+            "encoding": "265",
+            "gigabytes": 1.495269293,
             "creation": "1970-01-01T00:00:00.000000000Z",
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 70,
-            "uuploaders": 55
+            "udownloaders": 79,
+            "uuploaders": 65
         },
         {
             "id": 50,
@@ -8790,7 +8776,21 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 69,
+            "udownloaders": 77,
+            "uuploaders": 65
+        },
+        {
+            "id": 58,
+            "name": "The Summer I Turned Pretty S03E11 FINAL MULTI 1080p WEB H264-HiggsBoson [IPT]",
+            "btih": "d7c52550034797507172d25a7ba9a304d3a88794",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.30151966,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 74,
             "uuploaders": 58
         },
         {
@@ -8804,8 +8804,22 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 63,
-            "uuploaders": 56
+            "udownloaders": 70,
+            "uuploaders": 60
+        },
+        {
+            "id": 45,
+            "name": "The Summer I Turned Pretty S03E11 720p WEB H264-JFF [IPT]",
+            "btih": "9c7b8dece93a780b2e54d3531e7bb372ec162960",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.54991785,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 67,
+            "uuploaders": 51
         },
         {
             "id": 92,
@@ -8818,7 +8832,21 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 56,
+            "udownloaders": 63,
+            "uuploaders": 54
+        },
+        {
+            "id": 33,
+            "name": "The Summer I Turned Pretty S03 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]",
+            "btih": "93db1a11a79ac94711afd5c66111af01b5344953",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 50.63107831,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 61,
             "uuploaders": 48
         },
         {
@@ -8832,36 +8860,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 54,
-            "uuploaders": 40
-        },
-        {
-            "id": 33,
-            "name": "The Summer I Turned Pretty S03 1080p AMZN WEB-DL DDP5 1 Atmos H 264-Kitsune [IPT]",
-            "btih": "93db1a11a79ac94711afd5c66111af01b5344953",
-            "resolution": "1080",
-            "encoding": "264",
-            "gigabytes": 50.63107831,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 53,
-            "uuploaders": 44
-        },
-        {
-            "id": 45,
-            "name": "The Summer I Turned Pretty S03E11 720p WEB H264-JFF [IPT]",
-            "btih": "9c7b8dece93a780b2e54d3531e7bb372ec162960",
-            "resolution": "720",
-            "encoding": "264",
-            "gigabytes": 2.54991785,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 39,
-            "uuploaders": 28
+            "udownloaders": 58,
+            "uuploaders": 41
         },
         {
             "id": 54,
@@ -8874,22 +8874,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 31,
-            "uuploaders": 24
-        },
-        {
-            "id": 99,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.At.Last.XviD-AFG [IPT]",
-            "btih": "e58b9cb8a281834f005f5506e7b1d2e48e0c8fb4",
-            "resolution": "sd",
-            "encoding": "xvid",
-            "gigabytes": 0.805634156,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 27,
-            "uuploaders": 26
+            "udownloaders": 37,
+            "uuploaders": 29
         },
         {
             "id": 102,
@@ -8902,8 +8888,36 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 27,
-            "uuploaders": 26
+            "udownloaders": 36,
+            "uuploaders": 34
+        },
+        {
+            "id": 99,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.At.Last.XviD-AFG [IPT]",
+            "btih": "e58b9cb8a281834f005f5506e7b1d2e48e0c8fb4",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.805634156,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 30,
+            "uuploaders": 28
+        },
+        {
+            "id": 94,
+            "name": "The.Summer.I.Turned.Pretty.S03E11.At.Last.480p.x264-mSD [IPT]",
+            "btih": "58204000c9308444685b6d678a666518fb092f55",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.578565873,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 21,
+            "uuploaders": 16
         },
         {
             "id": 98,
@@ -8916,7 +8930,7 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 13,
+            "udownloaders": 14,
             "uuploaders": 4
         },
         {
@@ -8930,22 +8944,8 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 8,
-            "uuploaders": 2
-        },
-        {
-            "id": 94,
-            "name": "The.Summer.I.Turned.Pretty.S03E11.At.Last.480p.x264-mSD [IPT]",
-            "btih": "58204000c9308444685b6d678a666518fb092f55",
-            "resolution": "sd",
-            "encoding": "264",
-            "gigabytes": 0.578565873,
-            "creation": "1970-01-01T00:00:00.000000000Z",
-            "ssl": false,
-            "private": true,
-            "i2p": false,
-            "udownloaders": 6,
-            "uuploaders": 5
+            "udownloaders": 14,
+            "uuploaders": 4
         },
         {
             "id": 51,
@@ -8958,7 +8958,7 @@
             "ssl": false,
             "private": true,
             "i2p": false,
-            "udownloaders": 3,
+            "udownloaders": 4,
             "uuploaders": 2
         }
     ]
