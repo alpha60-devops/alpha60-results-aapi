@@ -16,26 +16,12 @@ layout: default
 
 ### Tables
 
-<!--
-{% include swu-meta-collection-table.html %}
 <div style="height: 50px;"></div>
 
-{% include swu-media-objects-table.html %}
 <div style="height: 50px;"></div>
--->
+
 
 ### Graphs
-
-<!--
-{::nomarkdown}
-{% include swu-downloads-by-week-cumulative-normalized-start.svg %}
-{:/}
-
-<script type="text/javascript" crossorigin="anonymous" id="graph-fade-js"
-	src="../scripts/graph-fade.js">
-</script>
-<div style="height: 50px;"></div>
--->
 
 ## Commentary, Questions
 
