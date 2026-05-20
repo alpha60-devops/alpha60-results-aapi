@@ -1,3 +1,11 @@
+---
+layout: default
+title: "AAPI-Led"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Analysis of AAPI-Led peer-to-peer distribution"
+---
+
+
 {::nomarkdown}
 <img src="resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
 
