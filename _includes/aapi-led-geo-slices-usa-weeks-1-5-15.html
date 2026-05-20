@@ -6,27 +6,99 @@
   <div class="table-container">
       
 
-<table id="t-usa">
-  <caption>USA Slice by Week Table</caption>
+<table id="t-usa" class="sortable">
+  <caption class="sr-only">USA Slice by Week Table</caption>
+<colgroup>
+  <col style="width: 26%;">
+
+  <!-- usa/world/% downloaders (74% total / 3 cols = 24.6% each) -->
+  <col style="width: 10%;">
+  <col style="width: 10%;">
+  <col style="width: 4.6%;">
+
+  <col style="width: 10%;">
+  <col style="width: 10%;">
+  <col style="width: 4.6%;">
+
+  <col style="width: 10%;">
+  <col style="width: 10%;">
+  <col style="width: 4.6%;">
+</colgroup>
   <thead>
     <tr>
-      <th onclick="sortTable('t-usa', 0)">collection_key</th>
-      <th onclick="sortTable('t-usa', 1)">world_1</th>
-      <th onclick="sortTable('t-usa', 2)">USA_1</th>
-      <th onclick="sortTable('t-usa', 3)">%</th>
-      <th onclick="sortTable('t-usa', 4)">world_5</th>
-      <th onclick="sortTable('t-usa', 5)">USA_5</th>
-      <th onclick="sortTable('t-usa', 6)">%</th>
-      <th onclick="sortTable('t-usa', 7)">world_10</th>
-      <th onclick="sortTable('t-usa', 8)">USA_10</th>
-      <th onclick="sortTable('t-usa', 9)">%</th>
-      <th onclick="sortTable('t-usa', 10)">world_20</th>
-      <th onclick="sortTable('t-usa', 11)">USA_20</th>
-      <th onclick="sortTable('t-usa', 12)">%</th>
+      <th aria-sort="ascending" column-idx="0" scope="col" rowspan="2">
+      <button>
+	media object
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+    <th scope="col" colspan="3">week 1 downloaders</th>
+    <th scope="col" colspan="3">week 5 downloaders</th>
+    <th scope="col" colspan="3">week 15 downloaders</th>
+    </tr>
+
+    <tr>
+      <th column-idx="1" scope="col">
+      <button>
+	world
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="2" scope="col">
+      <button>
+	USA
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="3" scope="col">
+      <button>
+	%
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+
+      <th column-idx="4" scope="col">
+      <button>
+	world
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="5" scope="col">
+      <button>
+	USA
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="6" scope="col">
+      <button>
+	%
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+
+      <th column-idx="7" scope="col">
+      <button>
+	world
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="8" scope="col">
+      <button>
+	USA
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+      <th column-idx="9" scope="col">
+      <button>
+	%
+	 <span aria-hidden="true"></span>
+      </button>
+      </th>
+
     </tr>
   </thead>
-      
-<tbody>
+
+<tbody class="tbody-zebra">
     <tr>
       <td>3-body-problem-01</td>
       <td>2,347,666</td>
