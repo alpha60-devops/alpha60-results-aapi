@@ -66,7 +66,7 @@ description: "Analysis of AAPI-Led peer-to-peer distribution"
 {% include aapiled-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include aapi-led-geo-slices-usa-weeks-1-5-10-20.html %}
+{% include aapi-led-geo-slices-usa-weeks-1-5-15.html %}
 <div style="height: 50px;"></div>
 
 {% include aapi-led-geo-slices-africa.html %}
